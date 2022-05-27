@@ -4,8 +4,7 @@ bank-account-project
 <h1>
   
 <p align="center">
-<img align="center" alt="Ramon-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img align="center" alt="Ramon-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
- <img align="center" alt="Ramon-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+<img align="center" alt="Ramon-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <
 </p>
   
   
